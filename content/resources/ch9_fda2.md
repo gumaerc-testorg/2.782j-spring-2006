@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Lecture slides about federal regulatory issues: recommended biocompatibility
   testing and regulation of testing engineered products.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-782j-design-of-medical-devices-and-implants-spring-2006/66220b99b9182874856b78fa219572bc_ch9_fda2.pdf
+file: /media/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/66220b99b9182874856b78fa219572bc_ch9_fda2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ch9_fda2.pdf
 uid: 66220b99-b918-2874-856b-78fa219572bc

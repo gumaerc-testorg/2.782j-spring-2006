@@ -5,8 +5,13 @@ description: 'Lecture slides about irreversible injury, therapies for missing or
   problems
 
   that have not been solved adequately.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-782j-design-of-medical-devices-and-implants-spring-2006/b2d5d9942b055bf816a8547ca0db2c8d_ch3_missing_orga.pdf
+file: /media/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/b2d5d9942b055bf816a8547ca0db2c8d_ch3_missing_orga.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ch3_missing_orga.pdf
 uid: b2d5d994-2b05-5bf8-16a8-547ca0db2c8d

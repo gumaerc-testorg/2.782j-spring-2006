@@ -6,12 +6,14 @@ description: New materials for artificial joints seek to increase strength witho
   phosphate (hydroxyapatite), the material features a dense inner core and gradually
   increasing porosity toward the exterior. (Courtesy of Lawrence Berkeley National
   Laboratory.)
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-782j-design-of-medical-devices-and-implants-spring-2006/b3af01b0e6adb0cb7d625bf60d4b098e_chp_scaffold_lbl.jpg
+file: /media/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/b3af01b0e6adb0cb7d625bf60d4b098e_chp_scaffold_lbl.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: chp_scaffold_lbl.jpg
 uid: b3af01b0-e6ad-b0cb-7d62-5bf60d4b098e
