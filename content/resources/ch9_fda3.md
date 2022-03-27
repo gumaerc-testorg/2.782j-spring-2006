@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 16a16164-5586-dea6-69fa-e6ecc85a88a2
 resourcetype: Document
 title: ch9_fda3.pdf
 uid: 4d4c3fa7-e2c1-60d2-a04d-8338dbaa4d75

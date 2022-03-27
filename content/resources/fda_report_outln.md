@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0a26be8e-dd2b-8852-dc0e-5e72f0029478
 resourcetype: Document
 title: fda_report_outln.pdf
 uid: 8daa2f7c-4970-1734-696e-83678460c965

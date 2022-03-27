@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cb25c623-fab8-e4a0-93bf-a60c4604b28b
 resourcetype: Document
 title: ch5_outline.pdf
 uid: 8215720c-bb09-cc67-f731-277add57175c

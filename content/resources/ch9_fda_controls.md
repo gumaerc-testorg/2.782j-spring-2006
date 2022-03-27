@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cb25c623-fab8-e4a0-93bf-a60c4604b28b
 resourcetype: Document
 title: ch9_fda_controls.pdf
 uid: acafe5a9-8b9c-4f1f-5b3f-846e025d3eb2

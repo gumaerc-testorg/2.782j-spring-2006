@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 16a16164-5586-dea6-69fa-e6ecc85a88a2
 resourcetype: Document
 title: ch12_bone.pdf
 uid: 47c6e8eb-322b-5a80-ed39-b9cabfda6d57

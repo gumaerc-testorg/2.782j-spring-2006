@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 16a16164-5586-dea6-69fa-e6ecc85a88a2
 resourcetype: Document
 title: ch7_biocompat.pdf
 uid: ab0de660-954f-7460-5f5b-9551d083bd83
