@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents various outlines, notes, textbook selections, and
+  journal articles assigned for class sessions.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -43,7 +45,7 @@ Clinical Problems Requiring Implants for Solution
 {{< tdopen >}}
 
 
-Chapter 1 Outline ([PDF]({{< baseurl >}}/resources/ch1_outline))
+Chapter 1 Outline ({{% resource_link 8c4398eb-40c1-056c-3f8d-aac57f2467e7 "PDF" %}})
 
 TORA. Chapter 1.
 
@@ -59,7 +61,7 @@ TORA. Chapter 1.
 Principles of Implant Design / Design Parameters: Permanent versus Absorbable Devices
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 2 Outline ([PDF]({{< baseurl >}}/resources/ch2_outline))
+Chapter 2 Outline ({{% resource_link da2dde30-04ca-2ff5-ab6e-2b6e274d68bc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,9 +233,9 @@ Federal Regulation of Devices I
 
 FDA Guidance for Industry documents:
 
-E6 Good Clinical Practice: Consolidated Guidance ([PDF]({{< baseurl >}}/resources/ch9_fda_clinical))
+E6 Good Clinical Practice: Consolidated Guidance ({{% resource_link 24836b97-2d0a-4636-81ac-f5b24f6f0a7f "PDF" %}})
 
-E10 Choice of Control Group and Related Issues in Clinical Trials ([PDF]({{< baseurl >}}/resources/ch9_fda_controls))
+E10 Choice of Control Group and Related Issues in Clinical Trials ({{% resource_link acafe5a9-8b9c-4f1f-5b3f-846e025d3eb2 "PDF" %}})
 
 [Tripartite Biocompatibility for Medical Devices](http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/default.htm)
 
