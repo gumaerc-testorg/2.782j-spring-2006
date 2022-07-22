@@ -6,6 +6,7 @@ file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/acafe5a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ch9_fda_controls.pdf
 uid: acafe5a9-8b9c-4f1f-5b3f-846e025d3eb2
 ---
 Full text of the FDA's Guidance for Industry, E10 Choice of Control Group and Related Issues in Clinical Trials.
-

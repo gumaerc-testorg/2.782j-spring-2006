@@ -6,6 +6,7 @@ file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/8c4398e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ch1_outline.pdf
 uid: 8c4398eb-40c1-056c-3f8d-aac57f2467e7
 ---
 Outline of Chapter 1 of the course text: Clinical Problems Requiring Implants for Solution: Defining the Problem.
-

@@ -5,6 +5,7 @@ file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/1615c1b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ch8_wear.pdf
 uid: 1615c1b7-8472-7028-760f-23a8944ee78f
 ---
 Lectures slides about degradation of devices: corrosion and wear.
-

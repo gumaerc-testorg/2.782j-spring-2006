@@ -6,6 +6,7 @@ file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/f4cd424
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ch7_outline.pdf
 uid: f4cd4247-e383-53c3-efcd-8f2aece2ec0a
 ---
 This resource contains information on biocompatibility: local and systemic effects
-

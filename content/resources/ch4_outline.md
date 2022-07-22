@@ -6,6 +6,7 @@ file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/769d341
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ch4_outline.pdf
 uid: 769d341e-657d-9a3f-5893-2329dad37b7e
 ---
 This resource contains information on replacing organs with permanent prostheses.
-

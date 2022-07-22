@@ -6,6 +6,7 @@ file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/4d4c3fa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ch9_fda3.pdf
 uid: 4d4c3fa7-e2c1-60d2-a04d-8338dbaa4d75
 ---
 Lecture slides with a summary of federal regulatory issues and clinical trials.
-

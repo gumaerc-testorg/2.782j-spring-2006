@@ -6,6 +6,7 @@ file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/4f93167
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw1_soln.pdf
 uid: 4f931676-264f-95b4-3dc5-5849d9725e81
 ---
 Solution to a homework assignment on the design of medical devices and implants.
-

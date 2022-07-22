@@ -5,6 +5,7 @@ file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/aba1e9d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ch9_outline.pdf
 uid: aba1e9d2-0eb5-0de7-3301-ee41f8e61ae4
 ---
 This resource contains information on federal regulation of devices 1.
-

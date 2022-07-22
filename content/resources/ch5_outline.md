@@ -5,6 +5,7 @@ file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/8215720
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ch5_outline.pdf
 uid: 8215720c-bb09-cc67-f731-277add57175c
 ---
 This resource contains information on tissue engineering.
-

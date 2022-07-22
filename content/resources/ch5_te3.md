@@ -7,6 +7,7 @@ file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/30ea27b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 30ea27b6-7b53-26e1-116f-d1ce414cff67
 ---
 This resource explains diffusable regulators of cell function.
 Lecture slides about tissue engineering, growth factors, and genes.
-

@@ -6,6 +6,7 @@ file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/da2dde3
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ch2_outline.pdf
 uid: da2dde30-04ca-2ff5-ab6e-2b6e274d68bc
 ---
 Outline of Chapter 2 of the course text: Principles of Implant Design (The Paradigm): Design Parameters.
-
