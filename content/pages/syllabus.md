@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course description and information about prerequisites,
+  topics, design projects, reading materials, grading, and the course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0b2c62ec-e40b-cc16-7ca3-1d46a064688a
 ---
@@ -38,7 +42,7 @@ The designs need be realistic, but the devices will not be fabricated. Professor
 Reading Materials
 -----------------
 
-Assigned articles from the literature are listed on the [readings]({{< baseurl >}}/pages/readings) page.
+Assigned articles from the literature are listed on the {{% resource_link cb25c623-fab8-e4a0-93bf-a60c4604b28b "readings" %}} page.
 
 A textbook for the course, known as TORA, is:
 
