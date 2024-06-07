@@ -4,6 +4,7 @@ description: Lecture slides about joint replacement prostheses, factors influenc
   performance, implant fixation, types of biological fixation, and problems of biological
   fixation.
 file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/c1beb0e2a46d6ce1b9cd5cf27a4e0281_ch6_implant.pdf
+file_size: 1286068
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

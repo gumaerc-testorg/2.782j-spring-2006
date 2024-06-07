@@ -2,6 +2,7 @@
 content_type: resource
 description: Outline for the FDA Report part of the design project for the course.
 file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/8daa2f7c49701734696e83678460c965_fda_report_outln.pdf
+file_size: 58926
 file_type: application/pdf
 learning_resource_types:
 - Assignments

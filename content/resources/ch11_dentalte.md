@@ -4,6 +4,7 @@ description: Lecture slides about regeneration strategy, tissue engineering, bio
   polymer scaffolds, porcine premolars, molars, collagen-gag matrices, and materials
   and methods of cell isolation.
 file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/1efc007e7a00433934489bfb56c69a65_ch11_dentalte.pdf
+file_size: 567788
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

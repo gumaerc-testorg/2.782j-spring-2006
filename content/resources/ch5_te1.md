@@ -4,6 +4,7 @@ description: Lecture slides with an overview of tissue engineering, the tissue f
   process, problems with tissue engineering, solutions, and tissue engineering versus
   regenerative medicine.
 file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/b3e2294ac2ce946ef2936e5ddd0d179e_ch5_te1.pdf
+file_size: 1444618
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
