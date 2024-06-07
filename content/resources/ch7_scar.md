@@ -4,6 +4,7 @@ description: Lecture slides about scar formation, contraction around implants, s
   of trauma, peripheral nerve, chronic scar formation, and quantitative description
   of healing processes.
 file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/be9f77c1f9a9f5caf2279111fa7dbb7e_ch7_scar.pdf
+file_size: 741741
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides with a summary of federal regulatory issues and clinical
   trials.
 file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/4d4c3fa7e2c160d2a04d8338dbaa4d75_ch9_fda3.pdf
+file_size: 1153082
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
