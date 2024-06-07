@@ -4,6 +4,7 @@ description: Non-destructive three-dimensional imaging of a tissue engineering s
   helps developers of these materials gain new insights into characteristics that
   promote cell growth and propagation. (Image courtesy of NIST.)
 file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/3cb4bb02d411ec52f30e95aeab8ef99e_chp_scaffold_sim.jpg
+file_size: 66392
 file_type: image/jpeg
 image_metadata:
   caption: ''

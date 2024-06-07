@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on design parameters.
 file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/aa297d9788efb36875b28418fb890128_ch6_outline.pdf
+file_size: 35484
 file_type: application/pdf
 learning_resource_types:
 - Readings

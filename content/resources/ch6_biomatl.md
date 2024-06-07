@@ -4,6 +4,7 @@ description: Lecture slides on types of primary atomic bonds, biomaterials appli
   composition of metals, orthopaedic metals, advantages of ceramics and characteristics
   of oxides.
 file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/26ccf0ccf41ffa076d7190cae55ae3f3_ch6_biomatl.pdf
+file_size: 692855
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
