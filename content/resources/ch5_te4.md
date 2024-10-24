@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture slides about stem cells, cells for tissue engineering, need for
   stem cells, potential application of pluripotent stem cells, historical perspective,
   and embryonic and fetal Stem Cells.
-file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/51b07c9b985d36b61d51c2dffd261ac0_ch5_te4.pdf
+file: /ol-ocw-studio-app/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/51b07c9b985d36b61d51c2dffd261ac0_ch5_te4.pdf
 file_size: 1225754
 file_type: application/pdf
 learning_resource_types:
