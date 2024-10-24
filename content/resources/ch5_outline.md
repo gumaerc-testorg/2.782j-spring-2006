@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on tissue engineering.
-file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/8215720cbb09cc67f731277add57175c_ch5_outline.pdf
+file: /ol-ocw-studio-app/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/8215720cbb09cc67f731277add57175c_ch5_outline.pdf
 file_size: 31410
 file_type: application/pdf
 learning_resource_types:
