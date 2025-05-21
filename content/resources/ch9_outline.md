@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on federal regulation of devices 1.
-file: /ol-ocw-studio-app/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/aba1e9d20eb50de73301ee41f8e61ae4_ch9_outline.pdf
+file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/aba1e9d20eb50de73301ee41f8e61ae4_ch9_outline.pdf
 file_size: 66897
 file_type: application/pdf
 learning_resource_types:

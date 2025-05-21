@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture slides on about design principles for medical devices. Suggested
   outline includes anatomy of organs, pathology of organs, old and new solutions,
   and the new design.
-file: /ol-ocw-studio-app/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/688f9a9626edaff99ae145a30ba1e1ac_ch1_design_princ.pdf
+file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/688f9a9626edaff99ae145a30ba1e1ac_ch1_design_princ.pdf
 file_size: 17995
 file_type: application/pdf
 learning_resource_types:

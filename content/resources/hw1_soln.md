@@ -2,7 +2,7 @@
 content_type: resource
 description: Solution to a homework assignment on the design of medical devices and
   implants.
-file: /ol-ocw-studio-app/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/4f931676264f95b43dc55849d9725e81_hw1_soln.pdf
+file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/4f931676264f95b43dc55849d9725e81_hw1_soln.pdf
 file_size: 76112
 file_type: application/pdf
 learning_resource_types:

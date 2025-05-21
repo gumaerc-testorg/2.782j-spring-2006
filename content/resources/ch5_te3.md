@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource explains diffusable regulators of cell function.
 
   Lecture slides about tissue engineering, growth factors, and genes.'
-file: /ol-ocw-studio-app/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/30ea27b67b5326e1116fd1ce414cff67_ch5_te3.pdf
+file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/30ea27b67b5326e1116fd1ce414cff67_ch5_te3.pdf
 file_size: 1415464
 file_type: application/pdf
 learning_resource_types:
