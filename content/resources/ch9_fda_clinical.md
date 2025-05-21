@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Full text of the FDA''s Guidance for Industry, E6 Good Clinical Practice:
   Consolidated Guidance.'
-file: /ol-ocw-studio-app/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/24836b972d0a463681acf5b24f6f0a7f_ch9_fda_clinical.pdf
+file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/24836b972d0a463681acf5b24f6f0a7f_ch9_fda_clinical.pdf
 file_size: 300975
 file_type: application/pdf
 learning_resource_types:

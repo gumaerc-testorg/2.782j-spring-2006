@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture slides on a design case study: Device for Partial Regeneration
   of Skin.'
-file: /ol-ocw-studio-app/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/5e9cfac7d9e003a16f2ba3153d69ca64_ch5_skin_case.pdf
+file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/5e9cfac7d9e003a16f2ba3153d69ca64_ch5_skin_case.pdf
 file_size: 475554
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/3b0880db4ec1a70105d65fd25d0eef7d_ch2_optimize.pdf
+file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/3b0880db4ec1a70105d65fd25d0eef7d_ch2_optimize.pdf
 file_size: 161217
 file_type: application/pdf
 learning_resource_types:
