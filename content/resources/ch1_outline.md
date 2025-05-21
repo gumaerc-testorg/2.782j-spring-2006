@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Outline of Chapter 1 of the course text: Clinical Problems Requiring
   Implants for Solution: Defining the Problem.'
-file: /ol-ocw-studio-app/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/8c4398eb40c1056c3f8daac57f2467e7_ch1_outline.pdf
+file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/8c4398eb40c1056c3f8daac57f2467e7_ch1_outline.pdf
 file_size: 28180
 file_type: application/pdf
 learning_resource_types:

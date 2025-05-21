@@ -2,7 +2,7 @@
 content_type: resource
 description: Full text of the FDA's Guidance for Industry, E10 Choice of Control Group
   and Related Issues in Clinical Trials.
-file: /ol-ocw-studio-app/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/acafe5a98b9c4f1f5b3f846e025d3eb2_ch9_fda_controls.pdf
+file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/acafe5a98b9c4f1f5b3f846e025d3eb2_ch9_fda_controls.pdf
 file_size: 156091
 file_type: application/pdf
 learning_resource_types:

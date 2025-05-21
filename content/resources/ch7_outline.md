@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information on biocompatibility: local and systemic
   effects'
-file: /ol-ocw-studio-app/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/f4cd4247e38353c3efcd8f2aece2ec0a_ch7_outline.pdf
+file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/f4cd4247e38353c3efcd8f2aece2ec0a_ch7_outline.pdf
 file_size: 322607
 file_type: application/pdf
 learning_resource_types:
