@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on replacing organs with permanent
   prostheses.
-file: /courses/2-782j-design-of-medical-devices-and-implants-spring-2006/769d341e657d9a3f58932329dad37b7e_ch4_outline.pdf
+file: /ol-ocw-studio-app/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/769d341e657d9a3f58932329dad37b7e_ch4_outline.pdf
 file_size: 92636
 file_type: application/pdf
 learning_resource_types:
