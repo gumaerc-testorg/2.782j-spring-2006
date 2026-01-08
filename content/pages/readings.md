@@ -237,7 +237,7 @@ E6 Good Clinical Practice: Consolidated Guidance ({{% resource_link 24836b97-2d0
 
 E10 Choice of Control Group and Related Issues in Clinical Trials ({{% resource_link acafe5a9-8b9c-4f1f-5b3f-846e025d3eb2 "PDF" %}})
 
-{{% resource_link "39355a58-c267-4e24-8653-d251b3e90152" "Tripartite Biocompatibility for Medical Devices" %}}
+[Tripartite Biocompatibility for Medical Devices](http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/default.htm)
 
 
 {{< tdclose >}}
@@ -263,7 +263,7 @@ Oral Presentations of Proposals for Design II
 Federal Regulation of Devices II
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "794e5eed-278d-41c1-9005-73f6d514f42c" "What is CE Marking?" %}}
+[What is CE Marking?](http://www.ce-marking.org/what-is-ce-marking.html)
 {{< tdclose >}}
 
 {{< trclose >}}
